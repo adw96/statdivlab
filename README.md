@@ -4,7 +4,7 @@ The *Statistical Diversity Lab*, or the Stat Div Lab, is the research group of D
 
 From here you can navigate to:
 
-- [reviewing](https://github.com/adw96/statdivlab/tree/master/reviewing): How to review papers as a representative of the Stat Div Lab
+- [reviewing](../tree/master/reviewing): How to review papers as a representative of the Stat Div Lab
 <!-- - mentoring: My expectations for my graduate students, and what my graduate students can expect from me -->
 - [coding](/coding): How I want you write and distribute code while in the Stat Div Lab
 - [for_collaborators](/for_collaborators): Some guidelines for new collaborators about what to expect from consulting and collaborating with the Stat Div Lab
