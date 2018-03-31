@@ -6,9 +6,9 @@ From here you can navigate to:
 
 - [reviewing](reviewing/README.md): How to review papers as a representative of the Stat Div Lab
 <!-- - mentoring: My expectations for my graduate students, and what my graduate students can expect from me -->
-- [coding](/coding): How I want you write and distribute code while in the Stat Div Lab
-- [for_collaborators](/for_collaborators): Some guidelines for new collaborators about what to expect from consulting and collaborating with the Stat Div Lab
-- [prospective](/prospective): Want to join/collaborate with the Stat Div Lab? Great! Here's what you need to know.
+- [coding](coding/README.md): How I want you write and distribute code while in the Stat Div Lab
+- [for_collaborators](for_collaborators/README.md): Some guidelines for new collaborators about what to expect from consulting and collaborating with the Stat Div Lab
+- [prospective](prospective/README.md): Want to join/collaborate with the Stat Div Lab? Great! Here's what you need to know.
 
 All documents in this folder are authored by Amy Willis unless otherwise noted.
 Members of the group are welcome to fork and submit proposed changes.
